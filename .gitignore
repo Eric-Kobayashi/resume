@@ -1,0 +1,24 @@
+# LaTeX auxillary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Generated PDF files
+*.pdf
+
+# Backup files
+*~
+
+# Other generated files
+_minted-*
+*.pyg
+
+# Directory for temporary files
+_build/
+
+# Mac FS cache
+.DS_Store
